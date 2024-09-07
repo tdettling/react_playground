@@ -13,10 +13,6 @@
   }
 }
 
-/* tetsing a push with some new
-lines of code
-more tests here
-*/
 
 .App-header {
   background-color: #282c35;
@@ -30,7 +26,7 @@ more tests here
 }
 
 .App-link {
-  color: #61dafb;
+  color: #d71a72;
 }
 
 @keyframes App-logo-spin {
